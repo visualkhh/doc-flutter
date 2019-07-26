@@ -1,4 +1,12 @@
+# Command
+ - Run flutter application
+   -  flutter emulators --launch <emulator name>
+-  Generate MOOR
+   -  flutter packages pub run build_runner build
+-  Build
+   -  flutter build apk
 
+# LINK  
 Upgrading Flutter  
  - https://flutter.dev/docs/development/tools/sdk/upgrading
 
